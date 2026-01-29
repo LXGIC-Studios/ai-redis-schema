@@ -1,11 +1,30 @@
 {
   "name": "ai-redis-schema",
   "version": "1.0.0",
-  "description": "Generate Redis key patterns and data structure designs",
+  "description": "AI-powered Redis schema designer - data structures and patterns with GPT",
   "main": "dist/index.js",
-  "bin": { "ai-redis-schema": "dist/cli.js" },
-  "scripts": { "build": "tsc" },
-  "keywords": ["redis","cache","schema","key-patterns","database","ai","cli"],
+  "bin": {
+    "ai-redis-schema": "dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "ai",
+    "openai",
+    "gpt",
+    "redis",
+    "schema",
+    "caching",
+    "data-structures",
+    "developer-tools",
+    "cli",
+    "automation",
+    "typescript",
+    "nodejs",
+    "database",
+    "key-value"
+  ],
   "license": "MIT",
   "dependencies": {
     "commander": "^12.1.0",
