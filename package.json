@@ -38,7 +38,7 @@
   "homepage": "https://github.com/LXGIC-Studios/ai-redis-schema#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/ai-redis-schema"
+    "url": "git+https://github.com/LXGIC-Studios/ai-redis-schema.git"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-redis-schema/issues"
