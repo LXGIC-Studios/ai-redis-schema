@@ -1,5 +1,5 @@
 {
-  "name": "ai-redis-schema",
+  "name": "@lxgicstudios/ai-redis-schema",
   "version": "1.0.0",
   "description": "AI-powered Redis schema designer - data structures and patterns with GPT",
   "main": "dist/index.js",
