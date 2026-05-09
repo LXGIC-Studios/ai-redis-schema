@@ -15,30 +15,37 @@
     "build": "tsc"
   },
   "keywords": [
+    "2025-standards",
     "ai",
+    "ai-2025",
+    "ai-powered",
     "anthropic",
+    "automation",
+    "caching",
     "claude",
-    "llm",
-    "openai",
-    "gpt",
+    "cli",
+    "data-structures",
+    "database",
+    "developer-productivity",
+    "developer-tools",
+    "discoverability",
+    "generative-ai",
+    "llm-optimized",
+    "modern-seo",
+    "nodejs",
+    "performance-optimization",
     "redis",
     "schema",
-    "caching",
-    "data-structures",
-    "developer-tools",
-    "cli",
-    "automation",
-    "typescript",
-    "nodejs",
-    "database",
-    "key-value"
+    "seo",
+    "seo-2026",
+    "typescript"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-redis-schema#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-redis-schema.git"
+    "url": "https://github.com/LXGIC-Studios/ai-redis-schema"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-redis-schema/issues"
