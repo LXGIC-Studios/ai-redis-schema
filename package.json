@@ -47,10 +47,7 @@
     "developer-tools",
     "devtools",
     "gpt",
-    "in-memory",
-    "typescript",
-    "javascript",
-    "nodejs"
+    "in-memory"
   ],
   "license": "MIT",
   "main": "dist/index.js",
